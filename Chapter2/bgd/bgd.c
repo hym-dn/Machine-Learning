@@ -1,5 +1,5 @@
 /**
- *  利用批梯度法实现线性回归
+ *  利用随即梯度法实现线性回归
  *  y=x1*theta1+x2*theta2
  */
 #include<stdio.h>
